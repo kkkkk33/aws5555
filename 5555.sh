@@ -2,7 +2,7 @@
 set -e
 
 # ================= 基础配置 =================
-SS_PORT=5555
+SS_PORT=5554
 SS_PASSWORD="1"
 SS_METHOD="chacha20-ietf-poly1305"
 
